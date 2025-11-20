@@ -28,7 +28,7 @@ This project was developed as part of the **Northcoders Full-Stack Software Deve
 
 The corresponding frontend application can be found here: [No Dice Games Frontend](https://github.com/Oliver1334/nodicegames-FE.git)
 
-Live frontend deployment: [https://nodicegames.netlify.app/](https://nodicegames.netlify.app/)
+**[View the live frontend deployment](https://nodicegames.netlify.app/)**
 
 ## Installation & Setup
 
