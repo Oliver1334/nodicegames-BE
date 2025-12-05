@@ -1,6 +1,6 @@
 # No Dice Games - Backend
 
-No Dice Games is a RESTful API built for a board game review aggregation platform. This backend service provides endpoints for managing reviews, comments, categories, and user interactions.
+No Dice Games is a RESTful API built for a board game review aggregation platform. This backend service provides endpoints for managing reviews, comments, categories, and user interactions. The project was built using Test-Driven Development (TDD) practices, with comprehensive test coverage for all API endpoints and error handling.
 
 **[View the live API here](https://nc-games-2kfx.onrender.com/api)**
 
@@ -21,6 +21,9 @@ This project was developed as part of the **Northcoders Full-Stack Software Deve
 - **Node.js**
 - **Express.js**
 - **PostgreSQL**
+
+### Testing
+
 - **Jest**
 - **Supertest**
 
